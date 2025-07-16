@@ -43,7 +43,6 @@ This is an exact formula I used in the "Max Wind Speed" column:
 - `README.md` - This guide.
 
 ## 🎓 Part of My Bootcamp Journey
-This project was a practical exercise from Week 1 / Day 3 of my bootcamp, focusing on advanced Excel formulas.
 
 ## 🤔 If I Had More Time
 - The next logical step would be to use this now-complete dataset to perform a full analysis with Pivot Tables to find insights, such as which wind speed category has caused the most financial damage.
